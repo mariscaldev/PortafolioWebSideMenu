@@ -1,0 +1,7 @@
+{
+  "name": "PortafolioWebSideMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
